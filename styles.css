@@ -1,3 +1,7 @@
 html {
   font-size: 10px;
+  background-color: chocolate;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
 }
